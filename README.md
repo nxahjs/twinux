@@ -8,7 +8,7 @@ I mean, come on! Twitter is one of the most popular social media networks out th
 <br>
 So I decided to build twinux. A very simple application that I hope you all enjoy.
 <br><br>
-Building
+Alt-H1
 ======
 Of course, just downloading the release files is the simplest way to do this, but if for some reason (e.g. I haven't made a build for your disto) it's very easy to build yourself. (Note: This does NOT install it. This runs it)
 <br>
