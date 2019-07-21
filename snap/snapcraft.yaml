@@ -24,8 +24,8 @@
 
   apps:
     myApp:
-      command: bin/electron-launch $SNAP/usr/lib/myApp/myApp
-      desktop: usr/share/applications/myApp.desktop
+      command: bin/electron-launch $SNAP/usr/lib/twinux/twinux
+      desktop: usr/share/applications/twinux.desktop
     # Correct the TMPDIR path for Chromium Framework/Electron to ensure
     # libappindicator has readable resources.
       environment:
