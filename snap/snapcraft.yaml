@@ -15,11 +15,9 @@
     my-part:
       # See 'snapcraft plugins'
       plugin: nil
-      apps:
-  
-  twinux:
-    # Correct the TMPDIR path for Chromium Framework/Electron to ensure
-    # libappindicator has readable resources.
-    command: env TMPDIR=$XDG_RUNTIME_DIR PATH=/usr/local/bin:${PATH} ${SNAP}/bin/desktop-launch $SNAP/twinux/desktop
-    desktop: usr/share/applications/twinux.desktop
+   
+   apps:
+     twinux:
+       command: env TMPDIR=$XDG_RUNTIME_DIR PATH=/usr/local/bin:${PATH} ${SNAP}/bin/desktop-launch $SNAP/twinux/desktop
+       desktop: usr/share/applications/twinux.desktop
   
