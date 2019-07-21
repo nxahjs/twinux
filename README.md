@@ -6,7 +6,7 @@ I started making twinux when I found out there weren't many Twitter clients for 
 <br>
 I mean, come on! Twitter is one of the most popular social media networks out there and we're being forced to use a web browser!?
 <br>
-So I decided to build twinux. A very simple application that I hope you all enjoy.
+So I decided to build twinux. A very simple application that I hope you all enjoy.<br>
 ### Building
 
 <br>
