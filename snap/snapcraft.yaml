@@ -17,10 +17,10 @@
       plugin: nil
    
     electron-launch:
-    plugin: dump
-    source: files/
-    prepare: |
-      chmod +x bin/electron-launch
+      plugin: dump
+      source: files/
+      prepare: |
+        chmod +x bin/electron-launch
 
   apps:
     myApp:
