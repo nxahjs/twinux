@@ -1,6 +1,7 @@
 # twinux
-#### twinux is an Electron based Twitter client for Linux (Twi - nux... or is it tw - inux?)
 
+### 🔒 This project was made 6 years ago. I was 11. It is an electron wrapper. Working on it!
+#### twinux is an Electron based Twitter client for Linux (Twi - nux... or is it tw - inux?)
 <br>
 I started making twinux when I found out there weren't many Twitter clients for Linux available.
 <br>
